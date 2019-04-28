@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/easy-cv/static/js/runtime~main.cef27d67.js"
   },
   {
-    "revision": "83ea0076c7cd2a8d8446",
-    "url": "/easy-cv/static/js/main.4d88e771.chunk.js"
+    "revision": "a2968ed9ec3c3bf33429",
+    "url": "/easy-cv/static/js/main.c90afc5c.chunk.js"
   },
   {
     "revision": "7a6074929b440cb793cf",
     "url": "/easy-cv/static/js/2.65a0ee3e.chunk.js"
   },
   {
-    "revision": "83ea0076c7cd2a8d8446",
+    "revision": "a2968ed9ec3c3bf33429",
     "url": "/easy-cv/static/css/main.70a9b034.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/easy-cv/static/css/2.3b14c35a.chunk.css"
   },
   {
-    "revision": "60b97a4bded379e73a2a6c2013fcb5e5",
+    "revision": "74ef17595b5d537a51aae140995993ba",
     "url": "/easy-cv/index.html"
   }
 ];
