@@ -1,16 +1,16 @@
 {
-  "main.css": "/easy-cv/static/css/main.0cd16698.chunk.css",
-  "main.js": "/easy-cv/static/js/main.938162f9.chunk.js",
-  "main.js.map": "/easy-cv/static/js/main.938162f9.chunk.js.map",
+  "main.css": "/easy-cv/static/css/main.5881ad86.chunk.css",
+  "main.js": "/easy-cv/static/js/main.1aa0cd6b.chunk.js",
+  "main.js.map": "/easy-cv/static/js/main.1aa0cd6b.chunk.js.map",
   "runtime~main.js": "/easy-cv/static/js/runtime~main.cef27d67.js",
   "runtime~main.js.map": "/easy-cv/static/js/runtime~main.cef27d67.js.map",
   "static/css/2.3f65337e.chunk.css": "/easy-cv/static/css/2.3f65337e.chunk.css",
-  "static/js/2.ef9bb131.chunk.js": "/easy-cv/static/js/2.ef9bb131.chunk.js",
-  "static/js/2.ef9bb131.chunk.js.map": "/easy-cv/static/js/2.ef9bb131.chunk.js.map",
+  "static/js/2.54b53863.chunk.js": "/easy-cv/static/js/2.54b53863.chunk.js",
+  "static/js/2.54b53863.chunk.js.map": "/easy-cv/static/js/2.54b53863.chunk.js.map",
   "index.html": "/easy-cv/index.html",
-  "precache-manifest.8098cf11b1261019fe099f4773635617.js": "/easy-cv/precache-manifest.8098cf11b1261019fe099f4773635617.js",
+  "precache-manifest.aa98653c79f93b41fca9f877abff7fbd.js": "/easy-cv/precache-manifest.aa98653c79f93b41fca9f877abff7fbd.js",
   "service-worker.js": "/easy-cv/service-worker.js",
   "static/css/2.3f65337e.chunk.css.map": "/easy-cv/static/css/2.3f65337e.chunk.css.map",
-  "static/css/main.0cd16698.chunk.css.map": "/easy-cv/static/css/main.0cd16698.chunk.css.map",
+  "static/css/main.5881ad86.chunk.css.map": "/easy-cv/static/css/main.5881ad86.chunk.css.map",
   "static/media/logo.jpg": "/easy-cv/static/media/logo.1a9c17ac.jpg"
 }
