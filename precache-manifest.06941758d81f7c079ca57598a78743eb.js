@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/easy-cv/static/media/logo.1a9c17ac.jpg"
   },
   {
-    "revision": "99475be92499f5b7860418978a449193",
+    "revision": "bc2eb5f28acff56c1d9d8450e56900b4",
     "url": "/easy-cv/index.html"
   }
 ];
